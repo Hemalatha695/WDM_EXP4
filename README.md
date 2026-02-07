@@ -39,6 +39,8 @@ plt.show()
 ```
 ### Output:
 <img width="812" height="626" alt="image" src="https://github.com/user-attachments/assets/55e9195c-99d0-411a-8064-7bc9fc2c7ab6" />
+
+
 ### program 2
 ```
 df1=df['Age']
@@ -50,6 +52,8 @@ k=KMeans(n_clusters=4,random_state=55)
 df3['cluster']=k.fit_predict(newdf)
 df3
 ```
+
+
 output
 <img width="282" height="611" alt="image" src="https://github.com/user-attachments/assets/ec7a4ec7-63f3-44b2-80bd-0ad97ad6f1cd" />
 
