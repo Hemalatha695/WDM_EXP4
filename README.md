@@ -55,6 +55,8 @@ df3
 
 
 output
+
+
 <img width="282" height="611" alt="image" src="https://github.com/user-attachments/assets/ec7a4ec7-63f3-44b2-80bd-0ad97ad6f1cd" />
 
 ### Visualization
@@ -68,6 +70,8 @@ plt.title('Visitor Distribution in Different Clusters')
 plt.show()
 ```
 output
+
+
 <img width="487" height="342" alt="image" src="https://github.com/user-attachments/assets/138afac1-015a-434e-80e9-a4d7fa885a7a" />
 
 ### Result:
